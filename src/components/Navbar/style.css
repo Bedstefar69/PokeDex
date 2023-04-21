@@ -1,0 +1,27 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: #4223b1;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.Navbar img {
+    margin-right: 10px;
+    width: 60px;
+}
+
+.Navbar h1 {
+    font-size: 22px;  
+}
+
+.about {
+    font-size: 22px;  
+    padding-left: 60px;
+    color: rgb(255, 255, 255);
+   
+   
+}
+
