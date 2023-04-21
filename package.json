@@ -12,9 +12,12 @@
     "react-dvd-screensaver": "^0.0.5",
     "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
+    "homepage": "https://Bedstefar69.github.io/Pokedex",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
