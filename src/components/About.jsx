@@ -8,7 +8,7 @@ export default function About(){
     
     return(
         <>
-        <Navbar></Navbar>
+        
         <div className="About">
         <img src={ meme } alt='flemming'/>
         </div>

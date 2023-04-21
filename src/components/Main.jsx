@@ -38,7 +38,7 @@ const Main=()=>{
     },[url])
     return(
         <>
-      <Navbar></Navbar>
+      
             <div className="container">
                 <div className="left-content">
                     <Card pokemon={pokeData} loading={loading} infoPokemon={poke=>setPokeDex(poke)}/>
