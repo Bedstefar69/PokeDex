@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Bedstefar69.github.io/PokeDex",
   "name": "pokedex",
   "version": "0.1.0",
   "private": false,
@@ -12,7 +13,6 @@
     "react-dvd-screensaver": "^0.0.5",
     "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
-    "homepage": "https://Bedstefar69.github.io/PokeDex",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
